@@ -1,0 +1,1 @@
+This is SlightlyCurved’s first git project!
